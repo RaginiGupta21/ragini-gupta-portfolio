@@ -8,7 +8,8 @@ Personal portfolio of **Ragini Gupta**, a Data Science & Business Analytics stud
 
 | Project | What it does | Live demo | Code |
 |---|---|---|---|
-| **Telecom Customer Churn Prediction** | Predicts which customers are likely to cancel and shows what drives them to leave (80.17% accuracy, 14x churn gap by contract type). | Notebook project | [GitHub](https://github.com/RaginiGupta21/Telecom-Churn-Prediction) |
+| **Telecom Customer Churn Prediction (v1)** | Predicts which customers are likely to cancel and shows what drives them to leave (80.17% accuracy, 14x churn gap by contract type). | Notebook project | [GitHub](https://github.com/RaginiGupta21/Telecom-Churn-Prediction) |
+| **Telecom Churn Prediction v2: AutoML & Cost-Based Decisions** | Predicts which customers will leave and picks who should get a retention offer, using FLAML AutoML (LightGBM), a profit-based threshold and SHAP explanations. 0.847 ROC-AUC; catches 84% of churners vs 53% at the default cut-off (assumed costs). | [Live demo](https://telecom-churn-prediction-automl.streamlit.app/) | [GitHub](https://github.com/RaginiGupta21/Telecom-Churn-Prediction-AutoML) |
 | **Retail Customer Analytics & Segmentation** | Groups shoppers by buying behaviour (RFM + K-Means) and finds products bought together (Apriori), with a Power BI dashboard. | [Live demo](https://smart-retail-analytic.streamlit.app/) | [GitHub](https://github.com/RaginiGupta21/smart-retail-analytics) |
 | **GlowMatch: Hybrid BeautyTech Recommender** | Recommends skincare products from ingredients, skin type and budget, with grounded explanations. | [Live demo](https://glowmatch-beautytech-recommender.streamlit.app/) | [GitHub](https://github.com/RaginiGupta21/glowmatch-beautytech-recommender) |
 | **Placement Readiness Tracker** | Industry project: a FastAPI web app to track placement preparation, with an ATS resume scanner. | [Live demo](https://placeready-tracker.onrender.com/) | [GitHub](https://github.com/RaginiGupta21/placeready-tracker) |
@@ -17,7 +18,7 @@ Personal portfolio of **Ragini Gupta**, a Data Science & Business Analytics stud
 
 ## What's on the site
 
-- Hero with a code panel that cycles through all four projects
+- Hero with a code panel that cycles through all five projects
 - About, with education, CGPA, strengths and internship goals
 - Skills grouped by discipline (Machine Learning & Statistics, Data Analytics, Programming, Web Development, Databases & Tools)
 - Project cards with plain-English summaries, key metrics and interactive charts
