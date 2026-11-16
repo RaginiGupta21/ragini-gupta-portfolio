@@ -1,6 +1,7 @@
 # Ragini Gupta | Portfolio
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel&logoColor=white)](https://ragini-gupta-portfolio.vercel.app/)
+
 ### Live site: [ragini-gupta-portfolio.vercel.app](https://ragini-gupta-portfolio.vercel.app/)
 
 Personal portfolio of **Ragini Gupta**, a Data Science \& Business Analytics student at SDBI, Mumbai (CGPA 9.23), seeking **Data Science, Data Analyst and Machine Learning internships**.
